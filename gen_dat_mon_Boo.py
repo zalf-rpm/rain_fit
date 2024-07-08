@@ -239,6 +239,8 @@ if __name__ == "__main__":
     field = "1211"
     weather_file = "109_120_boo-2019-21.csv"
     csv_separator = ","
+
+    # path to the generated MONICA files
     path_all_out = r"D:\_Trabalho\_Publicacoes_nossas\Inv_Mod_SHP\__MONICA_New\_Boo_Monica\input_files" + os.sep
     
     start_date = "2020-01-30"
